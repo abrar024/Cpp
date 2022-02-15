@@ -1,0 +1,16 @@
+int n, i=1;
+	cout << "enter n";
+	cin >> n;
+	do 
+	{
+		cout << i << endl;
+		i++;
+	} while (i <= n);
+
+
+
+	
+	
+		return 0;
+    
+    output-same as while loop 

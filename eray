@@ -1,0 +1,12 @@
+int main()
+{
+    int i;
+    int A[]={0,4,9,6,2};
+    for(i=0;i<5;i++)
+    {
+        cout<<A[i]<<endl;
+    }
+
+
+    return 0;
+}
